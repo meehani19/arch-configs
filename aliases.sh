@@ -1,0 +1,6 @@
+alias kc='kubectl'
+alias ll='ls -alhF'
+alias sstatus='sudo systemctl status'
+alias sstart='sudo systemctl start'
+alias sstop='sudo systemctl stop'
+alias srestart='sudo systemctl restart'
